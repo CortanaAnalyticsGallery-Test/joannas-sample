@@ -1,2 +1,0 @@
-# joannas-sample
-Some description
